@@ -21,4 +21,4 @@ This repository contains my first SystemVerilog lab completed as part of my Desi
 - Questa/ModelSim
 - Linux (Maven Silicon Lab Environment)
 
-This repository documents both the implementation and the key concepts learned during Lab 01.
+This repository documents both the implementation and the key concepts learned during Lab 01 .
